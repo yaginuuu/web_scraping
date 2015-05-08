@@ -1,0 +1,5 @@
+.DS_Store
+scraping_website.csv
+.bundle/
+vendor/
+mail.yml
