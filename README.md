@@ -1,3 +1,7 @@
-## HowTo
-- sh mail_template.sh
-- ruby scraping_website.rb
+## Usage in your terminal
+```
+$ sh mail_template.sh
+```
+```
+$ sh ruby scraping_website.rb
+```
