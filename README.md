@@ -3,5 +3,5 @@
 $ sh mail_template.sh
 ```
 ```
-$ sh ruby scraping_website.rb
+$ ruby scraping_website.rb
 ```
