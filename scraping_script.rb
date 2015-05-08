@@ -1,14 +1,5 @@
 # encoding: utf-8
 
-# 各サイトのスクレイピングを行うスクリプト
-# ruby 2.2.0
-# => https://lancers.atlassian.net/wiki/pages/viewpage.action?pageId=27789258
-# 実行コマンド
-# rbenv exec gem install bundler
-# bundle install --path vendor/bundle
-# cd scraping_website
-# ruby scraping_script.rb
-
 require 'bundler/setup'
 require 'csv'
 require 'anemone'
